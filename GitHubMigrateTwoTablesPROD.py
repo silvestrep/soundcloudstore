@@ -12,7 +12,7 @@ trackslist = []
 
 finaldata = userslist.append((usersdata.id,usersdata.followers_count))
 
-conn = mysql.connector.connect(user='root', password='joaosoundcloudstore',
+conn = mysql.connector.connect(user='root', password='XXX',
                               host='127.0.0.1',
                               database='soundcloudstore')
 
