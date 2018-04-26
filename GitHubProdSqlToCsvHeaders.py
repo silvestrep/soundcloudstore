@@ -1,7 +1,7 @@
 import pymysql
 import csv
 
-conn = pymysql.connect(user='root', password='joaosoundcloudstore',
+conn = pymysql.connect(user='root', password='XXX',
                               host='127.0.0.1',
                               database='soundcloudstore')
 
